@@ -1,0 +1,45 @@
+resume_directory: ../data/input/example_resumes
+summary_output_directory: ../data/output
+data_schema_dir: ../data/schema
+
+extractors:
+ Last Role:
+  - [Teacher, teaching, tutor]
+  - [developer, software developer, software engineer, dev]
+  - trader
+
+ database:
+  - SQL
+  - MySQL
+  - [Postgress, Postgresql]
+  - Oracle
+
+ Technical Skills:
+  - [java, JavaEE]
+  - C
+  - C++
+  - C#
+  - .NET
+  - Matlab
+  - R
+  - python
+  - VHDL
+  - PHP
+  - JavaScript
+
+
+ Highest Education:
+  - [TU Delft, TUDelft, Delft University of Technology]
+  - [Univerity of Twente, UTwente]
+  - [University of Amsterdam, UvA]
+  - [Vrije Univesriteit, VU University, VU Amsterdam, VU]
+  - [Symbiosis Institute of Management Studies AICTE & UGC Board Division 2 Pune, Maharashtra]
+  - MIT
+  - [Bachelor of Science Computer Information Systems Columbia University, NY]
+
+ languages:
+  - Dutch
+  - English
+  - German
+  - Spanish
+  - [Chinese, Mandarin]

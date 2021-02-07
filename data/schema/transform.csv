@@ -1,0 +1,12 @@
+variable,type,data_set
+file_path,object,observations
+extension,object,observations
+text,object,observations
+candidate_name,object,observations
+email,object,observations
+phone,object,observations
+Last Role,object,observations
+database,object,observations
+Technical Skills,object,observations
+Highest Education,object,observations
+languages,object,observations
